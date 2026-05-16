@@ -5,6 +5,4 @@
 - 🌱 I’m currently learning Python, C.
 - 👯 I’m interested in computer vision and embedded.
 - 📫 Reach me: chengyiming12345@126.com
-- 😄 Pronouns: Cheng
-- ⚡ Fun fact: Football, English, but my English is not good.😅
 -->
